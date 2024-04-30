@@ -1,2 +1,2 @@
 # Distributed_Sentiment_Analysis
-Distributed Sentiment Analysis using Pyspark on IMDB movie review dataset
+Distributed Sentiment Analysis using PySpark on the IMDB movie review dataset involves leveraging Spark's distributed computing capabilities to efficiently process and analyze large volumes of text data. By distributing the workload across multiple worker nodes, PySpark enables quick training of Word Embeddings, a crucial step in natural language processing tasks like sentiment analysis. This distributed approach accelerates the training process, allowing for more efficient utilization of resources and faster model iteration.
